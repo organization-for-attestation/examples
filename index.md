@@ -34,5 +34,5 @@ Figure 1: An example of an image.
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
 
 
-% :::{dgt-mon-asset} f9789ee5-329a-4fd1-b984-e6d85f605d09
+% :::{dgt-mon-asset} aa87179d-6d63-4851-8a06-1a8be7010132
 
