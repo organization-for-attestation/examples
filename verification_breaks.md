@@ -4,13 +4,15 @@ The file should always start with Heading 1.
 
 #### Heading 4. Where is level 3?
 
+#### Heading 6. Where 5?
+
 Content.
 
 :::{important}   
 Admonition example.  
 :::
 
-### Heading 3
+### Heading 3. No Footnotes In Headings[^footnote-ref-1]
 
 More content.
 
@@ -19,3 +21,14 @@ More content.
 
 Even more content. An example of an image is placed below.
 
+#### Heading 4
+
+There can not be a heading with a duplicated text.
+
+# Heading 1 Should Be At The Beginning Of The File Only!
+
+Content.
+
+# There Should Be Only One Heading 1
+
+[^footnote-ref-1]: A footnote.
