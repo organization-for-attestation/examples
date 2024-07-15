@@ -1,7 +1,7 @@
 # Verify tables and assets
 
 
-% :::{dgt-mon-asset} 86658aab-33cb-4065-b318-7fc7389a3116
+% :::{dgt-mon-asset} 8dfae398-5449-4293-96de-580bc30fabfa
 **Table 1:** A correct table.
 
 
@@ -31,7 +31,7 @@ Alt
 Text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
 
 
-% :::{dgt-mon-asset} e9da9e3c-bc9c-4e8c-b118-12bc2ab874c0
+% :::{dgt-mon-asset} 4dae975d-36a2-4ab2-b8d8-760164e5be44
 Where is a Metadata Table to that image?
 
 ![The
