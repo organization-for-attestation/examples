@@ -4,7 +4,7 @@
 
 Contents of the book. **Some** *formatting*. A [link](example.com).
 
-Table 1: A sample table.
+**Table 1:** A sample table.
 
 
 
@@ -29,10 +29,14 @@ More content.
 
 Even more content. An example of an image is placed below.
 
-Figure 1: An example of an image.
+**Figure 1:** An example of an image.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
+![The
+
+Alt
+
+Text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
 
 
-% :::{dgt-mon-asset} a19a9b58-4d7b-4e0a-acf0-1703cc4c4f92
+% :::{dgt-mon-asset} 1bd6530c-7732-4f23-9a92-1949492bd09d
 
